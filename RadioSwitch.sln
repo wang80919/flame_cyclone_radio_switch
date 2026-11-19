@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RadioSwitchDll", "RadioSwitchDll\RadioSwitchDll.vcxproj", "{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RadioSwitchLib", "RadioSwitchLib\RadioSwitchLib.vcxproj", "{747C94CC-1532-4A5A-BB83-306410F01646}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RadioSwitchApp", "RadioSwitchApp\RadioSwitchApp.vcxproj", "{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Debug|x64.ActiveCfg = Debug|x64
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Debug|x64.Build.0 = Debug|x64
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Debug|x86.Build.0 = Debug|Win32
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Release|x64.ActiveCfg = Release|x64
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Release|x64.Build.0 = Release|x64
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Release|x86.ActiveCfg = Release|Win32
+		{03D19873-1AAF-44CF-B398-DE0D1AAAD7AB}.Release|x86.Build.0 = Release|Win32
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Debug|x64.ActiveCfg = Debug|x64
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Debug|x64.Build.0 = Debug|x64
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Debug|x86.ActiveCfg = Debug|Win32
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Debug|x86.Build.0 = Debug|Win32
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Release|x64.ActiveCfg = Release|x64
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Release|x64.Build.0 = Release|x64
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Release|x86.ActiveCfg = Release|Win32
+		{747C94CC-1532-4A5A-BB83-306410F01646}.Release|x86.Build.0 = Release|Win32
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Debug|x64.ActiveCfg = Debug|x64
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Debug|x64.Build.0 = Debug|x64
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Debug|x86.Build.0 = Debug|Win32
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Release|x64.ActiveCfg = Release|x64
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Release|x64.Build.0 = Release|x64
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Release|x86.ActiveCfg = Release|Win32
+		{66058B61-CAAA-47BC-A1FD-AD9DDB6A89AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
